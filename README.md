@@ -1,1 +1,1 @@
-# mikrotik_api
+Проводим эксперименты с API для Mikrotik
